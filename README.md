@@ -32,20 +32,20 @@ This is a **Course Management System** built using **Java GUI (Swing)** that uti
 ---
 
 ## 🗃️ Project Structure
-CourseManagementSystem/
-│
-├── .idea/
-│ └── libraries/
-│ ├── activation.xml
-│ ├── javax.mail.xml
-│ └── mysql-connector-j-8.1.0.xml
-│
-├── src/
-│ └── DriverPackage/
-│ └── DBconnection.java
-│
-├── coursemanagementsystem.iml
-└── README.md
+        CourseManagementSystem/
+        │
+        ├── .idea/
+        │ └── libraries/
+        │ ├── activation.xml
+        │ ├── javax.mail.xml
+        │ └── mysql-connector-j-8.1.0.xml
+        │
+        ├── src/
+        │ └── DriverPackage/
+        │ └── DBconnection.java
+        │
+        ├── coursemanagementsystem.iml
+        └── README.md
 
 ---
 
